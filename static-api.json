@@ -1,13 +1,13 @@
 
 [
-    {"nama": "House Cat", "namaLatin": "Felis catus", "imageId": "house cat"},
-    {"nama": "European Wildcat", "namaLatin": "Felis silvestris", "imageId": "european wildcat"},
-    {"nama": "African Wildcat", "namaLatin": "Felis lybica", "imageId": "african wildcat"},
-    {"nama": "Bengal Cat", "namaLatin": "Prionailurus bengalensis", "imageId": "bengal cat"},
-    {"nama": "Serval", "namaLatin": "Leptailurus serval", "imageId": "serval"},
-    {"nama": "Caracal", "namaLatin": "Caracal caracal", "imageId": "caracal"},
+    {"nama": "House Cat", "namaLatin": "Felis catus", "imageId": "House Cat"},
+    {"nama": "European Wildcat", "namaLatin": "Felis silvestris", "imageId": "European Wildcat"},
+    {"nama": "African Wildcat", "namaLatin": "Felis lybica", "imageId": "African Wildcat"},
+    {"nama": "Bengal Cat", "namaLatin": "Prionailurus bengalensis", "imageId": "Bengal Cat"},
+    {"nama": "Serval", "namaLatin": "Leptailurus serval", "imageId": "Serval"},
+    {"nama": "Caracal", "namaLatin": "Caracal caracal", "imageId": "Caracal"},
     {"nama": "Pallas's Cat", "namaLatin": "Otocolobus manul", "imageId": "Pallas's Cat"},
     {"nama": "Sand Cat", "namaLatin": "Felis margarita", "imageId": "Sand Cat"},
-    {"nama": "African Golden Cat", "namaLatin": "Caracal aurata", "imageId": "african golden Cat"},
-    {"nama": "Marbled Cat", "namaLatin": "Pardofelis marmorata", "imageId": "marbled cat"}
+    {"nama": "African Golden Cat", "namaLatin": "Caracal aurata", "imageId": "African Golden Cat"},
+    {"nama": "Marbled Cat", "namaLatin": "Pardofelis marmorata", "imageId": "Marbled Cat"}
 ]
